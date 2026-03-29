@@ -1,0 +1,20 @@
+# Environment / secrets — never commit your API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# Database / index
+*.db
+
+# OS
+.DS_Store
+Thumbs.db
